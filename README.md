@@ -5,7 +5,7 @@ The Flight Management System is a Java Spring Boot application that provides a R
 ## Installation
 
 ### Prerequisites
-- JDK 11 or later installed
+- JDK 17 or later installed
 - MySQL installed and running
 - Maven for dependency management
 
